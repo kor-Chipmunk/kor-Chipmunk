@@ -4,6 +4,7 @@
 
 - 🔗 링크
   - Portfolio: [Portfolio](https://github.com/kor-Chipmunk/resume)
+  - Linkedin: [Linkedin](https://www.linkedin.com/in/%EC%84%A0%EC%9E%AC-%EA%B9%80-123155129/)
   - Blog: [itchipmunk](https://itchipmunk.tistory.com)
 - 💬 연락처
   - Kakaotalk: fastsquirrel
